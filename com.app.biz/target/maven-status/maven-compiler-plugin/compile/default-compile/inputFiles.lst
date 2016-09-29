@@ -1,0 +1,9 @@
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/CqlDAO.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/CqlConfig.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/repository/NameRepository.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/ClusterConfig.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/ClusterBuilder.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/repository/NameRepositoryImpl.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/nosqldaoconfig/AppCassandraConfig.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/CqlDAOImpl.java
+/Users/srparim/workspace/sri/app-parent/com.app.biz/src/main/java/com/app/biz/cassandra/CqlDriverConfig.java

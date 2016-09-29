@@ -1,0 +1,9 @@
+com/app/biz/cassandra/CqlDriverConfig.class
+com/app/biz/cassandra/nosqldaoconfig/AppCassandraConfig.class
+com/app/biz/cassandra/CqlDAO.class
+com/app/biz/cassandra/repository/NameRepositoryImpl.class
+com/app/biz/cassandra/ClusterBuilder.class
+com/app/biz/cassandra/CqlConfig.class
+com/app/biz/cassandra/ClusterConfig.class
+com/app/biz/cassandra/CqlDAOImpl.class
+com/app/biz/cassandra/repository/NameRepository.class
